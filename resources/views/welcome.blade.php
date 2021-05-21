@@ -77,7 +77,7 @@
                                                     Issue
                                                 </th>
                                                 <th>
-                                                    Why is it a problem       
+                                                    Why is it a problem
                                                 </th>
                                                 <th>
                                                     How to improve
@@ -95,8 +95,8 @@
                                     </table>
 
                                     <p>You can explore funcitonality of the app by folowing "<a href="{{ route('login') }}">Log in</a>" link at the top right and using email: "test@test.test" and password: "password" as credentials. </p>
-                              
-                                    <p>The source code of the app is available on <a href="https://github.com/ivan-m3/m3-test">github</a>.</p>
+
+                                    <p>The source code of the app is available on <a href="https://github.com/m3-agency/m3-test">github</a>.</p>
 
                                     <p>To run the app locally you can use <a href="https://laravel.com/docs/8.x/sail#introduction">Laravel Sail</a> or any other apache/nginx, php7.3+, mysql environment.</p>
 
@@ -105,7 +105,7 @@
                                 </div>
                             </div>
                         </div>
-                       
+
                     </div>
                 </div>
 

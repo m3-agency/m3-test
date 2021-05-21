@@ -9,7 +9,7 @@ This is a small project based on Laravel 8. It has basic Laravel authentication 
 
 You can explore funcitonality of the app by folowing "Log in" link at the top right and using email: "test@test.test" and password: "password" as credentials. 
 
-The source code of the app is available on [github](https://github.com/ivan-m3/m3-test).
+The source code of the app is available on [github](https://github.com/m3-agency/m3-test).
 
 To run the app locally you can use [Laravel Sail](https://laravel.com/docs/8.x/sail#introduction) or any other apache/nginx, php7.3+, mysql environment.
 
