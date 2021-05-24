@@ -66,7 +66,13 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <h2>M3 Agency Test</h2>
 
-                                    <p>This is a small project based on Laravel 8. It has basic Laravel authentication and give users ability to list ToDo items, add new ToDo items and mark those as completed. The app is functioning properly, however, the underlying code base is far from perfect. The task is to find and list issues with the code, give a brief explianation of the issue and propose a solution. E.g.:</p>
+                                    <p>
+                                        This is a small project based on Laravel 8. It has basic Laravel authentication
+                                        and gives users ability to list ToDo items, add new ToDo items and mark those as
+                                        completed. The app is functionality complete, however, the underlying code base
+                                        is far from perfect. The task is to find and list issues with the code, give a
+                                        brief explanation of the issue and propose a solution. E.g.:
+                                    </p>
                                     <table class="table-auto">
                                         <thead>
                                             <tr>
@@ -88,19 +94,39 @@
                                             <tr>
                                                 <td class="px-6">routes/web.php:19</td>
                                                 <td class="px-6">unused code</td>
-                                                <td class="px-6">Affects performence and readbility</td>
-                                                <td class="px-6">remove unnecesary code</td>
+                                                <td class="px-6">Affects performance and readability</td>
+                                                <td class="px-6">remove unnecessary code</td>
                                             </tr>
                                         </tbody>
                                     </table>
 
-                                    <p>You can explore functionality of the app by following "<a href="{{ route('login') }}">Log in</a>" link at the top right and using email: "test@test.test" and password: "password" as credentials. </p>
+                                    <p>
+                                        Note: we only look for issues with php code and database setup. Any issues with
+                                        UI, UX, HTML, CSS, server setup can be ignored
+                                    </p>
 
-                                    <p>The source code of the app is available on <a href="https://github.com/m3-agency/m3-test">github</a>.</p>
+                                    <p>
+                                        You can explore functionality of the app by following
+                                        "<a href="{{ route('login') }}">Log in</a>" link at the top right and using
+                                        email: "test@test.test" and password: "password" as credentials.
+                                    </p>
 
-                                    <p>To run the app locally you can use <a href="https://laravel.com/docs/8.x/sail#introduction">Laravel Sail</a> or any other apache/nginx, php7.4+, mysql environment.</p>
+                                    <p>
+                                        The source code of the app is available on
+                                        <a href="https://github.com/m3-agency/m3-test">github</a>.
+                                    </p>
 
-                                    <p>A database could be set up using <span class="code">artisan migrate</span> and <span class="code">artisan db:seed</span>. This will set up several users including one with email: "test@test.test" and password: "password".</p>
+                                    <p>
+                                        To run the app locally you can use
+                                        <a href="https://laravel.com/docs/8.x/sail#introduction">Laravel Sail</a> or any
+                                        other apache/nginx, php7.4+, mysql environment.
+                                    </p>
+
+                                    <p>
+                                        A database could be set up using <span class="code">artisan migrate</span> and
+                                        <span class="code">artisan db:seed</span>. This will set up several users
+                                        including one with email: "test@test.test" and password: "password".
+                                    </p>
                                     <p>A sample database is also exported in .sql format in /database/m3-test.sql</p>
                                 </div>
                             </div>
