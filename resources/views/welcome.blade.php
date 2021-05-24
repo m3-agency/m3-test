@@ -98,7 +98,7 @@
 
                                     <p>The source code of the app is available on <a href="https://github.com/m3-agency/m3-test">github</a>.</p>
 
-                                    <p>To run the app locally you can use <a href="https://laravel.com/docs/8.x/sail#introduction">Laravel Sail</a> or any other apache/nginx, php7.3+, mysql environment.</p>
+                                    <p>To run the app locally you can use <a href="https://laravel.com/docs/8.x/sail#introduction">Laravel Sail</a> or any other apache/nginx, php7.4+, mysql environment.</p>
 
                                     <p>A database could be set up using <span class="code">artisan migrate</span> and <span class="code">artisan db:seed</span>. This will set up several users including one with email: "test@test.test" and password: "password".</p>
                                     <p>A sample database is also exported in .sql format in /database/m3-test.sql</p>

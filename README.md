@@ -11,7 +11,7 @@ You can explore funcitonality of the app by folowing "Log in" link at the top ri
 
 The source code of the app is available on [github](https://github.com/m3-agency/m3-test).
 
-To run the app locally you can use [Laravel Sail](https://laravel.com/docs/8.x/sail#introduction) or any other apache/nginx, php7.3+, mysql environment.
+To run the app locally you can use [Laravel Sail](https://laravel.com/docs/8.x/sail#introduction) or any other apache/nginx, php7.4+, mysql environment.
 
 A database could be set up using `artisan migrate` and `artisan db:seed`. This will set up several users including one with email: "test@test.test" and password: "password". 
 
