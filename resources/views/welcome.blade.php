@@ -94,7 +94,7 @@
                                         </tbody>
                                     </table>
 
-                                    <p>You can explore funcitonality of the app by folowing "<a href="{{ route('login') }}">Log in</a>" link at the top right and using email: "test@test.test" and password: "password" as credentials. </p>
+                                    <p>You can explore functionality of the app by following "<a href="{{ route('login') }}">Log in</a>" link at the top right and using email: "test@test.test" and password: "password" as credentials. </p>
 
                                     <p>The source code of the app is available on <a href="https://github.com/m3-agency/m3-test">github</a>.</p>
 
